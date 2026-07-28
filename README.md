@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0136-single-number) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sudhirnegi9/dsa-in-java/tree/master/2733-neither-minimum-nor-maximum) |
@@ -14,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0088-merge-sorted-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sudhirnegi9/dsa-in-java/tree/master/2733-neither-minimum-nor-maximum) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0088-merge-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
