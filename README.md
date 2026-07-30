@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0136-single-number) |
+| [0506-relative-ranks](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0506-relative-ranks) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sudhirnegi9/dsa-in-java/tree/master/2733-neither-minimum-nor-maximum) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/sudhirnegi9/dsa-in-java/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0088-merge-sorted-array) |
+| [0506-relative-ranks](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0506-relative-ranks) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sudhirnegi9/dsa-in-java/tree/master/2733-neither-minimum-nor-maximum) |
 ## Two Pointers
 |  |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0128-longest-consecutive-sequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
