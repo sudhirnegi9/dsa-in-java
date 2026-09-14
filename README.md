@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0506-relative-ranks) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sudhirnegi9/dsa-in-java/tree/master/2733-neither-minimum-nor-maximum) |
@@ -29,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
@@ -65,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0242-valid-anagram) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
