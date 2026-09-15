@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0796-rotate-string) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0003-longest-substring-without-repeating-characters) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
