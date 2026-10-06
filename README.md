@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0349-intersection-of-two-arrays) |
+| [0771-jewels-and-stones](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0771-jewels-and-stones) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/sudhirnegi9/dsa-in-java/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3731-find-missing-elements](https://github.com/sudhirnegi9/dsa-in-java/tree/master/3731-find-missing-elements) |
 ## Union-Find
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0242-valid-anagram) |
+| [0771-jewels-and-stones](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0796-rotate-string) |
 ## Pigeonhole Principle
 |  |
