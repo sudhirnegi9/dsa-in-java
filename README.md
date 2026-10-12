@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0088-merge-sorted-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0387-first-unique-character-in-a-string) |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sudhirnegi9/dsa-in-java/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
